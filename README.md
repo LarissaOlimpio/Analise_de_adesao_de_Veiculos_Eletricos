@@ -30,7 +30,7 @@ Python/Pandas (limpeza), SQL (modelagem e queries analíticas) e Power BI (dashb
   localização americana (condado, CEP, tract censitário).
 
 ## Notebook
-- [Exploração e Limpeza](notebooks/data_analysis.ipynb)
+- [Exploração e Limpeza](notebook/data_exploration_and_cleaning/data_analysis.ipynb)
 
 ## Principais insights (em andamento)
 - (a preencher conforme as queries SQL forem feitas)
