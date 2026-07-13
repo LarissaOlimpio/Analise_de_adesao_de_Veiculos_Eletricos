@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 Análise exploratória e modelagem de dados sobre a adoção de veículos elétricos, 
-usando dataset público [nome/fonte do dataset]. Projeto de portfólio aplicando 
+usando dataset público [[Full Electric Vehicle Dataset 2024](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population/data)]. Projeto de portfólio aplicando 
 Python/Pandas (limpeza), SQL (modelagem e queries analíticas) e Power BI (dashboard).
 
 ## Ferramentas utilizadas
