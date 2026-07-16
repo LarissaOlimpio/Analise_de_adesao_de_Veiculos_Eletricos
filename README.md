@@ -1,6 +1,6 @@
 # Análise de Adoção de Veículos Elétricos (EV Population Data)
 
-## Sobre o projeto
+## Sobre o projeto (Projeto em desenvolvimento)
 Análise exploratória e modelagem de dados sobre a adoção de veículos elétricos, 
 usando dataset público [[Full Electric Vehicle Dataset 2024](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population/data)]. Projeto de portfólio aplicando 
 Python/Pandas (limpeza), SQL (modelagem e queries analíticas) e Power BI (dashboard).
