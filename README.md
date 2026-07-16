@@ -1,12 +1,16 @@
 # Análise de Adoção de Veículos Elétricos (EV Population Data)
+![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
-## Sobre o projeto (Projeto em desenvolvimento)
+## Sobre o projeto 
 Análise exploratória e modelagem de dados sobre a adoção de veículos elétricos, 
 usando dataset público [[Full Electric Vehicle Dataset 2024](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population/data)]. Projeto de portfólio aplicando 
 Python/Pandas (limpeza), SQL (modelagem e queries analíticas) e Power BI (dashboard).
 
 ## Ferramentas utilizadas
-- Python (Pandas) — exploração e limpeza de dados
+- **Python (Pandas, Seaborn, Matplotlib)** — exploração, limpeza e visualização de dados
+  - Tratamento e preparação da base de dados (`ev_data_limpo.csv`)
+  - Análise exploratória (EDA): estatísticas descritivas e inspeção inicial
+  - Dashboard com 4 painéis: top fabricantes, evolução de registros ao longo do tempo, distribuição geográfica por condado e modelos mais vendidos
 - SQL — modelagem relacional (Star Schema) e queries analíticas
 - Power BI — dashboard e visualização
 
